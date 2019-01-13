@@ -53,6 +53,12 @@ Access the sent data/components via the service.
 ```
 
 
+Contributing
+------------------------------------------------------------------------------
+
+See the [Contributing](CONTRIBUTING.md) guide.
+
+
 License
 ------------------------------------------------------------------------------
 
