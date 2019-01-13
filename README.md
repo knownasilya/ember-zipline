@@ -1,7 +1,7 @@
 ember-zipline
 ==============================================================================
 
-Send components from one location to another declaratively. USe case is for
+Send components from one location to another declaratively. Use case is for
 sharing components with an ember engine isntance.
 
 
