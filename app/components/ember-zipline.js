@@ -1,0 +1,1 @@
+export { default } from 'ember-zipline/components/ember-zipline/component';
